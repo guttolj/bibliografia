@@ -11,6 +11,7 @@
     "Harvey-2013_para-entender-capital"
     "Brody-2018_save-cat-writers-novel"
     "Gorodovits-2012_bíblia-hebraica"
-    "Liu-2020_o-problema-três-corpos"))
+    "Liu-2020_o-problema-três-corpos"
+    "Perini-2019_sintaxe"))
  '(or :bibtex :latex))
 
