@@ -6,6 +6,7 @@
    (LaTeX-add-bibitems
     "Chaib-2024_luta-paradigmas-luta-classes"
     "Cunha-2008_nova-gramática-português-contemporâneo"
+    "Institute-2021_guia-conhecimento-gerenciamento-projetos-guia-pmbok"
     "Cegalla-2008_novíssima-gramática-língua-portuguesa"
     "Jordan-1994_o-senhor-caos"
     "Harvey-2013_para-entender-capital"
