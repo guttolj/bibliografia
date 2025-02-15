@@ -9,6 +9,7 @@
     "Institute-2021_guia-conhecimento-gerenciamento-projetos-guia-pmbok"
     "Cegalla-2008_novíssima-gramática-língua-portuguesa"
     "Jordan-1994_o-senhor-caos"
+    "Pressman-2021_engenharia-software"
     "Harvey-2013_para-entender-capital"
     "Brody-2018_save-cat-writers-novel"
     "Gorodovits-2012_bíblia-hebraica"
