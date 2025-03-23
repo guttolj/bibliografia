@@ -14,6 +14,7 @@
     "Brody-2018_save-cat-writers-novel"
     "Gorodovits-2012_bíblia-hebraica"
     "Liu-2020_o-problema-três-corpos"
-    "Perini-2019_sintaxe"))
+    "Perini-2019_sintaxe"
+    "Elmasri-2018_sistemas-banco-dados"))
  '(or :bibtex :latex))
 
