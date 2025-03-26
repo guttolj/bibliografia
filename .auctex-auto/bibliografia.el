@@ -15,6 +15,7 @@
     "Gorodovits-2012_bíblia-hebraica"
     "Liu-2020_o-problema-três-corpos"
     "Perini-2019_sintaxe"
-    "Elmasri-2018_sistemas-banco-dados"))
+    "Elmasri-2018_sistemas-banco-dados"
+    "Engels-2022_do-socialismo-utópico-socialismo-científico"))
  '(or :bibtex :latex))
 
