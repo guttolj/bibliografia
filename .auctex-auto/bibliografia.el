@@ -16,6 +16,7 @@
     "Liu-2020_o-problema-três-corpos"
     "Perini-2019_sintaxe"
     "Elmasri-2018_sistemas-banco-dados"
-    "Engels-2022_do-socialismo-utópico-socialismo-científico"))
+    "Engels-2022_do-socialismo-utópico-socialismo-científico"
+    "Pestana-2015_gramática-concursos-públicos"))
  '(or :bibtex :latex))
 
